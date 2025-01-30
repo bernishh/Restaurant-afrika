@@ -34,8 +34,7 @@ body {
   
   .hero {
     text-align: center;
-    background: url('../images/hero.jpg') no-repeat center center/cover;
-    color: white;
+    color: black;
     padding: 5rem 1rem;
   }
   .btn {
@@ -49,15 +48,7 @@ body {
   .btn:hover {
     background-color: #008c9e;
   }
-  .products {
-    display: flex;
-    justify-content: space-between;
-    gap: 1rem;
-  }
   
-  .product {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 1rem;
-    text-align: center;
-  }
+.popular h2{
+    text-align: centergi;
+}
